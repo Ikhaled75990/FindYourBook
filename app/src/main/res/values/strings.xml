@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find Your Book</string>
+    <string name="enter_here">Enter your search here</string>
+    <string name="search">search</string>
+    <string name="title">The world is your oyester.</string>
+    <string name="subtitle">Enter a letter or word of your choice of book,click \"SEARCH\" and see magic happen! </string>
+</resources>
